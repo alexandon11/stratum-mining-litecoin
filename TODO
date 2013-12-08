@@ -1,0 +1,19 @@
+# TODO File (in no particular order):
+
+## Long Term Goals
+* Pooled/redundant solution
+* Coinbase payouts
+* Real time change options
+
+## Optimizations
+* SQL Connection pooling: sqlalchemy
+* Change caching to memcache
+
+## Feature Requests
+* PoS Coins
+* YaCoin
+* Fix VARDIFF so that it has a tunable variance. (default to 1, but allow all float)
+
+## Branch Management
+* Merge PoS into stratum-lite after testing. Make it an feature switch.
+
