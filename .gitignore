@@ -1,0 +1,15 @@
+*.pyc
+conf/config.py
+NOTES
+run
+pooldb.sqlite
+archives/*
+twistd.pid
+.project
+.pydevproject
+*.swp
+*.log
+*.bak
+log/
+*.[0-9]
+*.[0-9][0-9]
